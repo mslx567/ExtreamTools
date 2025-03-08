@@ -7,44 +7,6 @@ commands:
     description: Teleport to spawn
   setspawn:
     description: Set the spawn point
-  home:
-    description: Teleport to home
-  sethome:
-    description: Set your home
-  warp:
-    description: Warp to a location
-  setwarp:
-    description: Set a warp location
-  back:
-    description: Teleport back to last location
-  tpa:
-    description: Request teleport to a player
-  tpaccept:
-    description: Accept teleport request
-  tpdeny:
-    description: Deny teleport request
-  balance:
-    description: Show your balance
-  pay:
-    description: Pay another player
-  sell:
-    description: Sell an item
-  msg:
-    description: Send a private message
-  mute:
-    description: Mute a player
-  unmute:
-    description: Unmute a player
-  kick:
-    description: Kick a player
-  ban:
-    description: Ban a player
-  unban:
-    description: Unban a player
-  jail:
-    description: Send a player to jail
-  unjail:
-    description: Release a player from jail
   god:
     description: Enable God mode
   fly:
@@ -53,5 +15,3 @@ commands:
     description: Heal yourself
   feed:
     description: Fill your hunger bar
-  vanish:
-    description: Become invisible
