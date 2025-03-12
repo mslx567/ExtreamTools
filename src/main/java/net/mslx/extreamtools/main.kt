@@ -11,11 +11,11 @@ import org.bukkit.plugin.java.JavaPlugin
 class Main : JavaPlugin() {
 
     override fun onEnable() {
-        logger.info("Kotlin Essentials Plugin Enabled!")
+        logger.info("ExteraTools has been Enabled!")
     }
 
     override fun onDisable() {
-        logger.info("Kotlin Essentials Plugin Disabled!")
+        logger.info("ExteraTools has been Disabled!")
     }
 
     override fun onCommand(sender: CommandSender, command: Command, label: String, args: Array<out String>): Boolean {
